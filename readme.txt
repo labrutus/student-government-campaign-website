@@ -1,20 +1,25 @@
-# SBP Campaign Website
+# Student Body President Campaign Website
 
 ## Overview
-A student body president campaign website built using HTML and CSS.
+Designed and developed a multi-page campaign website for a student government candidate. The site presents policy initiatives, campaign messaging, and engagement content in a clean, responsive layout.
 
 ## Features
-- Responsive design
-- Blog pages
-- Category filtering
-- Multi-page navigation
+- Multi-page navigation (Home, Policies, Blog, Categories)
+- Responsive design for desktop and mobile
+- Structured content sections for campaign initiatives
+- Organized blog layout for updates and messaging
 
 ## Tech Stack
-- HTML
-- CSS
+- HTML5
+- CSS3
+- JavaScript
 
-## Live Demo
-https://khizra4sbp.com/
+## Deployment
+Live site: https://khizra4sbp.com/
+Hosted using Vercel. 
+
+## Purpose
+Built to increase student engagement, communicate campaign priorities, and provide accessible information about platform initiatives.
 
 
 
